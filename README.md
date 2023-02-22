@@ -6,7 +6,7 @@ This project aims to simulate a dielectrophoresis system for detecting malaria u
 ## Contributors
 - [@Armandotrsg](https://github.com/Armandotrsg)
 - [@Fergomar](https://github.com/Fergomar1320)
-- Liliana Solórzano
+- [@LilianaSP](https://github.com/LilianaSP)
 - Andrea Núñez
 
 ## Installation
